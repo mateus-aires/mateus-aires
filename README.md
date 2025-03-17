@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm a software developer with a bachelor's degree in Computer Science by the Federal University of Campina Grande and fluency in English. I've got consolidated experience in Java and Kotlin languages, applied to both backend and Android development; and experience in Scrum projects. Currently pursuing a postgraduate degree in Java Technology at the Federal Technological University of Paraná.
+Software Engineer with a Bachelor’s degree in Computer Science, specializing in Java, Angular, Rust, Quarkus, and Spring Framework based projects. Currently working as a Software Engineer at Motorola Solutions. Additionally, pursuing a postgraduate degree in Software Architecture at FIAP and a postgraduate degree in Java Technology at the Federal University of Technology of Paran´a.
 
 ### 📫 You can reach me at:
 
